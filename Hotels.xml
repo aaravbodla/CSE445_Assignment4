@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>800-937-8461</Phone>
+		<Phone>480-968-8885</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.7">
+		<Name>Hotel6</Name>
+		<Phone>800-937-9999</Phone>
+		<Phone>480-968-9999</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>Morris St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85283</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.0">
+		<Name>RomeInn</Name>
+		<Phone>800-937-4545</Phone>
+		<Phone>480-968-5858</Phone>
+		<Address NearestAirport="Water Harbor">
+			<Number>11</Number>
+			<Street>E.10th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85285</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.7">
+		<Name>Mahal</Name>
+		<Phone>800-555-8461</Phone>
+		<Phone>480-656-8885</Phone>
+		<Address NearestAirport="Air Harbor">
+			<Number>11</Number>
+			<Street>West 11th St</Street>
+			<City>Tuson</City>
+			<State>AZ</State>
+			<Zip>85251</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>800-937-8461</Phone>
+		<Phone>480-968-8885</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>800-937-8461</Phone>
+		<Phone>480-968-8885</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>800-937-8461</Phone>
+		<Phone>480-968-8885</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>TajH</Name>
+		<Phone>910-937-8461</Phone>
+		<Phone>920-968-8885</Phone>
+		<Address NearestAirport="Shivaji">
+			<Number>11</Number>
+			<Street>Ust Dr</Street>
+			<City>Mumbai</City>
+			<State>MH</State>
+			<Zip>80101</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Hilton</Name>
+		<Phone>800-937-0000</Phone>
+		<Phone>480-968-2222</Phone>
+		<Address NearestAirport="IGI">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>WestINN</Name>
+		<Phone>800-937-8461</Phone>
+		<Phone>480-968-8885</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th St</Street>
+			<City>Delhi</City>
+			<State>CT</State>
+			<Zip>85280</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
