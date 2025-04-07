@@ -18,7 +18,7 @@
                     <xs:element name="Zip" type="xs:string
                       "/>
                   </xs:sequence>
-                  <xs:attribute name="NearestAirport" type="xs:string"/>
+                  <xs:attribute name="NearstAirport" type="xs:string"/>
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
