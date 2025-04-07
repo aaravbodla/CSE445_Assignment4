@@ -5,33 +5,37 @@
     xmlns:bs="https://aaravbodla.github.io/CSE445_Assignment4/Hotels.xsd"
     elementFormDefault="qualified" 
     attributeFormDefault="unqualified">
+
     <element name="Hotels">
         <complexType>
             <sequence>
-              <element name="Hotel" minOccurs="1" maxOccurs="unbounded"/>
+                <element name="Hotel" minOccurs="1" maxOccurs="unbounded"/>
             </sequence>
         </complexType>
     </element>
+
     <element name="Hotel">
         <complexType>
             <sequence>
-                <element name="Name" type="string" minOccurs="1" maxOccurs="1"/>
-                <element name="Phone" type="string" minOccurs="1" maxOccurs="unbounded"/>
-                <element name="Address" minOccurs="1" maxOccurs="1"/>
-                <element name="Rating" type="decimal" minOccurs="0" maxOccurs="1"/>
+                <element name="Name" type="string"/>
+                <element name="Phone" type="string" maxOccurs="unbounded"/>
+                <element name="Address"/>
+                <element name="Rating" type="decimal" minOccurs="0"/>
             </sequence>
         </complexType>
     </element>
+
     <element name="Address">
         <complexType>
             <sequence>
-                <element name="Number"         type="int" minOccurs="1" maxOccurs="1"/>
-                <element name="Street"         type="string" minOccurs="1" maxOccurs="1"/>
-                <element name="City"           type="string" minOccurs="1" maxOccurs="1"/>
-                <element name="State"          type="string" minOccurs="1" maxOccurs="1"/>
-                <element name="Zip"            type="int" minOccurs="1" maxOccurs="1"/>
-                <element name="NearstAirport"  type="string" minOccurs="1" maxOccurs="1"/>
+                <element name="Number" type="int"/>
+                <element name="Street" type="string"/>
+                <element name="City" type="string"/>
+                <element name="State" type="string"/>
+                <element name="Zip" type="int"/>
+                <element name="NearstAirport" type="string"/>
             </sequence>
         </complexType>
     </element>
+
 </schema>
