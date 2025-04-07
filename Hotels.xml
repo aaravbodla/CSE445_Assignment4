@@ -1,99 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
-	<Hotel Rating="4.2">
+	<Hotel>
 		<Name>Westin</Name>
 		<Phone>800-937-8461</Phone>
 		<Phone>480-968-8885</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address>
 			<Number>11</Number>
 			<Street>E.7th St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
+			<NearstAirport>Sky Harbor</NearstAirport>
 		</Address>
+		<Rating>4.2</Rating>
 	</Hotel>
-	<Hotel Rating="3.7">
+	<Hotel>
 		<Name>Holiday Inn</Name>
 		<Phone>800-937-9999</Phone>
 		<Phone>480-968-7777</Phone>
-		<Address NearestAirport="JFK">
+		<Address>
 			<Number>25</Number>
 			<Street>Main St</Street>
 			<City>New York</City>
 			<State>NY</State>
 			<Zip>10001</Zip>
+			<NearstAirport>JFK</NearstAirport>
 		</Address>
+		<Rating>3.7</Rating>
 	</Hotel>
-	<Hotel Rating="4.5">
+	<Hotel>
 		<Name>Grand Hyatt</Name>
 		<Phone>800-555-1234</Phone>
 		<Phone>480-555-5678</Phone>
-		<Address NearestAirport="LAX">
+		<Address>
 			<Number>99</Number>
 			<Street>Sunset Blvd</Street>
 			<City>Los Angeles</City>
 			<State>CA</State>
 			<Zip>90001</Zip>
+			<NearstAirport>LAX</NearstAirport>
 		</Address>
+		<Rating>4.5</Rating>
 	</Hotel>
-	<Hotel Rating="4.7">
+	<Hotel>
 		<Name>Taj Mahal Palace</Name>
 		<Phone>800-555-8461</Phone>
 		<Phone>480-656-9999</Phone>
-		<Address NearestAirport="Chhatrapati Shivaji">
+		<Address>
 			<Number>5</Number>
 			<Street>Marine Drive</Street>
 			<City>Mumbai</City>
 			<State>MH</State>
 			<Zip>400001</Zip>
+			<NearstAirport>Chhatrapati Shivaji</NearstAirport>
 		</Address>
+		<Rating>4.7</Rating>
 	</Hotel>
-	<Hotel Rating="3.9">
+	<Hotel>
 		<Name>Shangri-La</Name>
 		<Phone>800-123-9876</Phone>
 		<Phone>480-654-3210</Phone>
-		<Address NearestAirport="Changi">
+		<Address>
 			<Number>7</Number>
 			<Street>Orchard Road</Street>
 			<City>Singapore</City>
 			<State>SG</State>
 			<Zip>238897</Zip>
+			<NearstAirport>Changi</NearstAirport>
 		</Address>
+		<Rating>3.9</Rating>
 	</Hotel>
-	<Hotel Rating="4.3">
+	<Hotel>
 		<Name>Marriott Downtown</Name>
 		<Phone>800-876-5432</Phone>
 		<Phone>480-234-5678</Phone>
-		<Address NearestAirport="O'Hare">
+		<Address>
 			<Number>33</Number>
 			<Street>Michigan Ave</Street>
 			<City>Chicago</City>
 			<State>IL</State>
 			<Zip>60611</Zip>
+			<NearstAirport>O'Hare</NearstAirport>
 		</Address>
+		<Rating>4.3</Rating>
 	</Hotel>
-	<Hotel Rating="4.6">
+	<Hotel>
 		<Name>Ritz Carlton</Name>
 		<Phone>800-789-4321</Phone>
 		<Phone>480-876-5432</Phone>
-		<Address NearestAirport="Heathrow">
+		<Address>
 			<Number>88</Number>
 			<Street>Park Lane</Street>
 			<City>London</City>
 			<State>UK</State>
 			<Zip>W1K 7TN</Zip>
+			<NearstAirport>Heathrow</NearstAirport>
 		</Address>
+		<Rating>4.6</Rating>
 	</Hotel>
-	<Hotel Rating="4.1">
+	<Hotel>
 		<Name>Hilton</Name>
 		<Phone>800-937-0000</Phone>
 		<Phone>480-968-2222</Phone>
-		<Address NearestAirport="IGI">
+		<Address>
 			<Number>42</Number>
 			<Street>Connaught Place</Street>
 			<City>Delhi</City>
 			<State>DL</State>
 			<Zip>110001</Zip>
+			<NearstAirport>IGI</NearstAirport>
 		</Address>
+		<Rating>4.1</Rating>
 	</Hotel>
 </Hotels>
