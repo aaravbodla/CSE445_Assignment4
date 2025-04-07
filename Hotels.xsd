@@ -6,6 +6,7 @@
     elementFormDefault="qualified" 
     attributeFormDefault="unqualified">
 
+    <!-- Root element containing multiple hotels -->
     <element name="Hotels">
         <complexType>
             <sequence>
@@ -14,26 +15,28 @@
         </complexType>
     </element>
 
+    <!-- Hotel element containing details like name, phone, address, and rating -->
     <element name="Hotel">
         <complexType>
             <sequence>
-                <element name="Name" type="string"/>
-                <element name="Phone" type="string" maxOccurs="unbounded"/>
-                <element name="Address"/>
-                <element name="Rating" type="decimal" minOccurs="0"/>
+                <element name="Name" type="string"/> <!-- Hotel name -->
+                <element name="Phone" type="string" maxOccurs="unbounded"/> <!-- Multiple phone numbers allowed -->
+                <element name="Address"/> <!-- Address details -->
+                <element name="Rating" type="decimal" minOccurs="0"/> <!-- Optional hotel rating -->
             </sequence>
         </complexType>
     </element>
 
+    <!-- Address structure containing location details -->
     <element name="Address">
         <complexType>
             <sequence>
-                <element name="Number" type="int"/>
-                <element name="Street" type="string"/>
-                <element name="City" type="string"/>
-                <element name="State" type="string"/>
-                <element name="Zip" type="int"/>
-                <element name="NearstAirport" type="string"/>
+                <element name="Number" type="int"/> <!-- Street number -->
+                <element name="Street" type="string"/> <!-- Street name -->
+                <element name="City" type="string"/> <!-- City name -->
+                <element name="State" type="string"/> <!-- State or region -->
+                <element name="Zip" type="int"/> <!-- Zip code -->
+                <element name="NearstAirport" type="string"/> <!-- Nearest airport (note the spelling 'Nearst') -->
             </sequence>
         </complexType>
     </element>
