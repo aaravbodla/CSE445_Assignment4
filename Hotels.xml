@@ -3,6 +3,8 @@
         xmlns:bs="https://aaravbodla.github.io/CSE445_Assignment4/Hotels.xsd"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="https://aaravbodla.github.io/CSE445_Assignment4/Hotels.xsd">
+
+    <!-- Westin Hotel -->
 	<Hotel>
 		<Name>Westin</Name>
 		<Phone>800-937-8461</Phone>
@@ -17,6 +19,8 @@
 		</Address>
 		<Rating>4.2</Rating>
 	</Hotel>
+
+    <!-- Holiday Inn -->
 	<Hotel>
 		<Name>Holiday Inn</Name>
 		<Phone>800-937-9999</Phone>
@@ -31,6 +35,8 @@
 		</Address>
 		<Rating>3.7</Rating>
 	</Hotel>
+
+    <!-- Grand Hyatt -->
 	<Hotel>
 		<Name>Grand Hyatt</Name>
 		<Phone>800-555-1234</Phone>
@@ -45,6 +51,8 @@
 		</Address>
 		<Rating>4.5</Rating>
 	</Hotel>
+
+    <!-- Taj Mahal Palace -->
 	<Hotel>
 		<Name>Taj Mahal Palace</Name>
 		<Phone>800-555-8461</Phone>
@@ -59,6 +67,8 @@
 		</Address>
 		<Rating>4.7</Rating>
 	</Hotel>
+
+    <!-- Shangri-La -->
 	<Hotel>
 		<Name>Shangri-La</Name>
 		<Phone>800-123-9876</Phone>
@@ -73,6 +83,8 @@
 		</Address>
 		<Rating>3.9</Rating>
 	</Hotel>
+
+    <!-- Marriott Downtown -->
 	<Hotel>
 		<Name>Marriott Downtown</Name>
 		<Phone>800-876-5432</Phone>
@@ -87,6 +99,8 @@
 		</Address>
 		<Rating>4.3</Rating>
 	</Hotel>
+
+    <!-- Ritz Carlton -->
 	<Hotel>
 		<Name>Ritz Carlton</Name>
 		<Phone>800-789-4321</Phone>
@@ -101,6 +115,8 @@
 		</Address>
 		<Rating>4.6</Rating>
 	</Hotel>
+
+    <!-- Hilton -->
 	<Hotel>
 		<Name>Hilton</Name>
 		<Phone>800-937-0000</Phone>
@@ -115,4 +131,5 @@
 		</Address>
 		<Rating>4.1</Rating>
 	</Hotel>
+
 </Hotels>
