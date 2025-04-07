@@ -13,111 +13,87 @@
 		</Address>
 	</Hotel>
 	<Hotel Rating="3.7">
-		<Name>Hotel6</Name>
+		<Name>Holiday Inn</Name>
 		<Phone>800-937-9999</Phone>
-		<Phone>480-968-9999</Phone>
-		<Address NearestAirport="Sky Harbor">
-			<Number>11</Number>
-			<Street>Morris St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85283</Zip>
+		<Phone>480-968-7777</Phone>
+		<Address NearestAirport="JFK">
+			<Number>25</Number>
+			<Street>Main St</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10001</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.0">
-		<Name>RomeInn</Name>
-		<Phone>800-937-4545</Phone>
-		<Phone>480-968-5858</Phone>
-		<Address NearestAirport="Water Harbor">
-			<Number>11</Number>
-			<Street>E.10th St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85285</Zip>
+	<Hotel Rating="4.5">
+		<Name>Grand Hyatt</Name>
+		<Phone>800-555-1234</Phone>
+		<Phone>480-555-5678</Phone>
+		<Address NearestAirport="LAX">
+			<Number>99</Number>
+			<Street>Sunset Blvd</Street>
+			<City>Los Angeles</City>
+			<State>CA</State>
+			<Zip>90001</Zip>
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.7">
-		<Name>Mahal</Name>
+		<Name>Taj Mahal Palace</Name>
 		<Phone>800-555-8461</Phone>
-		<Phone>480-656-8885</Phone>
-		<Address NearestAirport="Air Harbor">
-			<Number>11</Number>
-			<Street>West 11th St</Street>
-			<City>Tuson</City>
-			<State>AZ</State>
-			<Zip>85251</Zip>
-		</Address>
-	</Hotel>
-	<Hotel Rating="4.2">
-		<Name>Westin</Name>
-		<Phone>800-937-8461</Phone>
-		<Phone>480-968-8885</Phone>
-		<Address NearestAirport="Sky Harbor">
-			<Number>11</Number>
-			<Street>E.7th St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-	</Hotel>
-	<Hotel Rating="4.2">
-		<Name>Westin</Name>
-		<Phone>800-937-8461</Phone>
-		<Phone>480-968-8885</Phone>
-		<Address NearestAirport="Sky Harbor">
-			<Number>11</Number>
-			<Street>E.7th St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-	</Hotel>
-	<Hotel Rating="4.2">
-		<Name>Westin</Name>
-		<Phone>800-937-8461</Phone>
-		<Phone>480-968-8885</Phone>
-		<Address NearestAirport="Sky Harbor">
-			<Number>11</Number>
-			<Street>E.7th St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-	</Hotel>
-	<Hotel Rating="4.2">
-		<Name>TajH</Name>
-		<Phone>910-937-8461</Phone>
-		<Phone>920-968-8885</Phone>
-		<Address NearestAirport="Shivaji">
-			<Number>11</Number>
-			<Street>Ust Dr</Street>
+		<Phone>480-656-9999</Phone>
+		<Address NearestAirport="Chhatrapati Shivaji">
+			<Number>5</Number>
+			<Street>Marine Drive</Street>
 			<City>Mumbai</City>
 			<State>MH</State>
-			<Zip>80101</Zip>
+			<Zip>400001</Zip>
 		</Address>
 	</Hotel>
-	<Hotel Rating="4.2">
+	<Hotel Rating="3.9">
+		<Name>Shangri-La</Name>
+		<Phone>800-123-9876</Phone>
+		<Phone>480-654-3210</Phone>
+		<Address NearestAirport="Changi">
+			<Number>7</Number>
+			<Street>Orchard Road</Street>
+			<City>Singapore</City>
+			<State>SG</State>
+			<Zip>238897</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.3">
+		<Name>Marriott Downtown</Name>
+		<Phone>800-876-5432</Phone>
+		<Phone>480-234-5678</Phone>
+		<Address NearestAirport="O'Hare">
+			<Number>33</Number>
+			<Street>Michigan Ave</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<Zip>60611</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.6">
+		<Name>Ritz Carlton</Name>
+		<Phone>800-789-4321</Phone>
+		<Phone>480-876-5432</Phone>
+		<Address NearestAirport="Heathrow">
+			<Number>88</Number>
+			<Street>Park Lane</Street>
+			<City>London</City>
+			<State>UK</State>
+			<Zip>W1K 7TN</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.1">
 		<Name>Hilton</Name>
 		<Phone>800-937-0000</Phone>
 		<Phone>480-968-2222</Phone>
 		<Address NearestAirport="IGI">
-			<Number>11</Number>
-			<Street>E.7th St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-		</Address>
-	</Hotel>
-	<Hotel Rating="4.2">
-		<Name>WestINN</Name>
-		<Phone>800-937-8461</Phone>
-		<Phone>480-968-8885</Phone>
-		<Address NearestAirport="Sky Harbor">
-			<Number>11</Number>
-			<Street>E.7th St</Street>
+			<Number>42</Number>
+			<Street>Connaught Place</Street>
 			<City>Delhi</City>
-			<State>CT</State>
-			<Zip>85280</Zip>
+			<State>DL</State>
+			<Zip>110001</Zip>
 		</Address>
 	</Hotel>
 </Hotels>
